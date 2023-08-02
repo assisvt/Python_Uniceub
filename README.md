@@ -1,1 +1,2 @@
-# Uniceub
+# Uniceub 
+Aulas e exercícios propostos
